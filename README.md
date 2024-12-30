@@ -54,3 +54,4 @@ While my background is in business and operations, I keep a keen eye on technolo
 
 **Thanks for stopping by!** Feel free to connect and discuss opportunities, insights, or just share your favorite ski slopes!
 ```
+google-site-verification: googled5b2ee113e1caf6c.html
