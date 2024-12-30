@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="12P6dQS7IxS7XOPdhxjGA9sIL9JEsprU2EoOT4sLXcc" />
+
 ## Hi there 👋 I'm Ragul Adhithya R R
 
 **Business Leader | Tech & Finance Enthusiast | Operations Innovator**
@@ -54,4 +56,3 @@ While my background is in business and operations, I keep a keen eye on technolo
 
 **Thanks for stopping by!** Feel free to connect and discuss opportunities, insights, or just share your favorite ski slopes!
 ```
-google-site-verification: googled5b2ee113e1caf6c.html
